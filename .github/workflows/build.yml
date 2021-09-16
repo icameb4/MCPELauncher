@@ -1,8 +1,7 @@
 name: Build BlockLauncher
 
 on:
-  workflow_dispatch:
-   [push]
+  [push]
 
 jobs:
   build:
