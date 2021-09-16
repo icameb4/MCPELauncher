@@ -16,7 +16,7 @@ tools/ci/download_resources.sh
 tools/ci/build_dependencies.sh
 # Prepare the repositories
 tools/ci/prep_repositories.sh
-tools/ci/setup_signing_key.sh
+# tools/ci/setup_signing_key.sh
 # Build!
 tools/ci/build.sh
 tools/ci/copy_artifact.sh
