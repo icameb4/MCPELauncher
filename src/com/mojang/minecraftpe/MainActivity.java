@@ -83,7 +83,7 @@ public class MainActivity extends NativeActivity {
 
 	public static final String TAG = "BlockLauncher/Main";
 	public static final String SCRIPT_SUPPORT_VERSION = "1.14.1.5";
-	public static final String HALF_SUPPORT_VERSION = "1.15";
+	public static final String HALF_SUPPORT_VERSION = "1.17";
 	private static final boolean HALF_VERSION_HAS_SCRIPTS = false;
 	public static final String LITE_SUPPORT_VERSION = "~~~";
 	private static final String SUPPORTED_VERSION_READABLE = "1.14.1";
