@@ -1,3 +1,3 @@
 #!/bin/bash
 set -e
-cp ../mcpelauncher-app/bin/MCPELauncherApp-release.apk ./
+cp ../mcpelauncher-app/bin/MCPELauncherApp-debug.apk ./
