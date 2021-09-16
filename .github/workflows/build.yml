@@ -26,4 +26,4 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: MCPELauncherApp
-        path: MCPELauncherApp-release.apk
+        path: MCPELauncherApp-debug.apk
